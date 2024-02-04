@@ -40,7 +40,9 @@ cd server && npm install
 cd ../client && npm install
 ```
 
-3. Configure the database connection in the backend. You can use MongoDB Atlas or a local MongoDB server.
+3.
+install mongo db 
+Configure the database connection in the backend. You can use MongoDB Atlas or a local MongoDB server.
 
 4. Start the backend server:
 
